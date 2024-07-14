@@ -24,7 +24,35 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   font-weight: 400;
+  font-size: 1.6rem;
   color: var(--dark3);
 }
 
 /* Shared Style */
+.display-flex {
+  display: flex;
+}
+
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar__item {
+  list-style: none;
+}
+
+.navbar__link {
+  text-decoration: none;
+}
+
+/* header style */
+.header {
+  background-color: var(--primary-1);
+}
+
+.navbar,
+.banner {
+  width: 144rem;
+  margin: 0 auto;
+}
