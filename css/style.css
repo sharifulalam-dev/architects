@@ -26,6 +26,7 @@ body {
   font-weight: 400;
   font-size: 1.6rem;
   color: var(--dark3);
+  padding-bottom: 5rem;
 }
 
 /* Shared Style */
@@ -205,6 +206,18 @@ align-items: center;
 .sponsor__item{
   width: 100%;
   filter: grayscale(100%);
+}
+
+.footer{
+  padding: 4rem;
+  background-color: #FFF4E7;
+  margin-top: 13rem;
+
+}
+
+.footer__copy{
+  display: inline-block;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 576px) {
