@@ -204,7 +204,7 @@ align-items: center;
 
 .sponsor__item{
   width: 100%;
-  filter: grayscale(1);
+  filter: grayscale(100%);
 }
 
 @media screen and (max-width: 576px) {
