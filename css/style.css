@@ -184,6 +184,7 @@ align-items: center;
 
 .sponsor{
   margin-top: 13rem;
+  text-align: center;
 }
 
 .sponsor__heading{
@@ -203,7 +204,7 @@ align-items: center;
 
 .sponsor__item{
   width: 100%;
-  filter: grayscale(0);
+  filter: grayscale(1);
 }
 
 @media screen and (max-width: 576px) {
