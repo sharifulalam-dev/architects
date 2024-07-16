@@ -146,14 +146,28 @@ body {
 }
 
 
+.facts{
+  margin-top: 13rem;
+}
+
 
 .factcs__content{
   justify-content: space-around;
+  margin-top: 10rem;
+}
+
+.facts__heading{
+  margin-bottom: 2.4rem;
 }
 
 .facts__box{
   border: 1px solid rgb(255, 144, 14);
 border-radius: 8px;
+padding: 5rem 3.5rem;
+}
+.facts__text{
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 @media screen and (max-width: 576px) {
