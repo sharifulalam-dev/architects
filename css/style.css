@@ -144,6 +144,20 @@ body {
 .team__details {
   margin-top: 2.4rem;
 }
+
+.facts{
+  
+}
+
+.factcs__content{
+  justify-content: space-around;
+}
+
+.facts__box{
+  border: 1px solid rgb(255, 144, 14);
+border-radius: 8px;
+}
+
 @media screen and (max-width: 576px) {
   .navbar {
     flex-direction: column;
