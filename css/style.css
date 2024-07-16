@@ -33,6 +33,12 @@ body {
   display: flex;
 }
 
+.heading {
+  font-size: 4.5rem;
+  font-weight: 700;
+  color: var(--dark1);
+}
+
 .btn {
   font-size: 1.8rem;
   color: #fff;
